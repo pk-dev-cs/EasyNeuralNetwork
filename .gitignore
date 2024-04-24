@@ -1,0 +1,47 @@
+# Compiled Object files
+*.suo
+*.cache
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# NuGet Packages
+*.nuget.props
+*.lock.json
+*.nuget.targets
+
+# MSTest Test Results
+TestResults
+
+# Visual Studio files
+.vs
+.vscode
+*.sln.docstates
+
+# Resharper files
+_ReSharper.*
+*.resharper.user
+
+# Rider files
+.idea
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.cache
+*.dbmdl
+*.orig
+*.[Ee]xe
+*.[Ll]ock
+*.log
+*.opendb
+*.sqlite
+*.sqlite3
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
